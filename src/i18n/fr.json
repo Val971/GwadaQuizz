@@ -1,0 +1,31 @@
+{
+  "page-start": {
+    "title": "C'est parti !!!",
+    "description": "Quel est votre nom?",
+    "placeholder": "Votre prénom",
+    "btnText": "Commencer",
+    "errorText":"Veuillez choisir un nom"
+    
+  },
+  "page-home":{
+    "welcome":"Bienvenue",
+    "btnNext":"Continuer vers le quizz",
+    "description":"Que savez-vous vraiment les îles de la <b>link</b> ? Nous vous proposons un quiz pour vérifier vos connaissances élémentaires sur territoire un <b>français d'outre-mer</b>.   <br><br> Au cours des questions de ce quiz, nous revenons sur la <b>géographie</b> de la Guadeloupe, les <b>spécificités locales</b>, <b>les plats régionaux</b>, l'histoire de l'archipel, etc.",
+    "description2":"À chaque question, trouvez la bonne réponse parmi les 4 propositions et tentez de faire le score parfait de 100%."
+  },
+  
+  "page-questions": {
+    "btnText": "Passez à la question suivante"
+  },
+  "page-result": {
+    "btnRetray": "Ressayer",
+    "score": "Votre score est de {{percentage}} points",
+    "textScore":"Résultat",
+    "winText":"Bien joué ",
+    "badText":"Dommage essaie encore",
+    "goHome":"Accueil"
+  },
+  "page-error":{
+    "title":"Il n'y a rien ici: 404!"
+  }
+}

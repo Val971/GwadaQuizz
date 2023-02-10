@@ -1,0 +1,30 @@
+{
+  "page-start": {
+    "title": "Let's go !!!",
+    "description": "What should we call you?",
+    "placeholder": "Your name",
+    "btnText": "Start",
+    "errorText":"Please choose a name"
+  },
+  "page-home":{
+    "welcome":"Welcome",
+    "btnNext":"Go to the quizz",
+    "description":"How much do you really know about the islands of <b>Guadeloupe</b>? I propose you a quiz to check your basic knowledge on <b>French overseas territory</b>.<br> <br>During the questions of this quiz, we come back on the geography of Guadeloupe, the <b>local specificities</b>, the <b>regional dishes</b>, the history of the archipelago, etc.",
+    "description2":"For each question, find the right answer among the 4 propositions and try to make the perfect score of 100%."
+  },
+  "page-questions":{
+    "btnText":"Go to the next question"
+  },
+  "page-result":{
+    "btnRetray":"Try again",
+    "score":"Your score was {{percentage}} points",
+    "textScore":"Score",
+    "winText":"Well playeur ",
+    "badText":"Too bad try again",
+    "goHome":"go home"
+}
+,
+"page-error":{
+  "title":"There's nothing here: 404!"
+}
+}
