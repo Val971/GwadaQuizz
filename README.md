@@ -6,6 +6,8 @@ It's a stunning island located in the Lesser Antilles of the Caribbean. It is a 
 So, whether you're a seasoned traveler or simply an avid learner, take a moment to brush up on your knowledge and see how much you really know about this fascinating island.
 
 
+![Screenshot 2023-02-10 175330](https://user-images.githubusercontent.com/6785647/218220208-c9001b7c-1de6-437c-a8ff-cb2f4390683e.png)
+
 ## Installation
 
 Install my-project with npm
